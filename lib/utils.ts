@@ -1,3 +1,5 @@
+import { Game } from '@/advents/advent-02/types';
+
 /**
  * [std] use this function to read the formated input text file provided by Advent of Code.
  *
@@ -17,7 +19,7 @@ async function readTextFile(filepath: string) {
  * @param game_string string formated as game record
  * @returns game as JSON
  */
-function formatGameStringToJSON(game_string: string) {
+function formatGameStringToJSON(game_string: string): Game {
   const { 0: _game_string, 1: _sets_string } = game_string.split(":");
   const _splited_sets = _sets_string.split(";");
 
