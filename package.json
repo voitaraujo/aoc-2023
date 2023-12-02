@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "tests": "bun test --coverage"
+    "tests_all": "bun test --coverage"
   },
   "devDependencies": {
     "bun-types": "latest"
