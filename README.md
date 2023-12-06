@@ -21,3 +21,5 @@ It didn't take long for me to understand my mistake and how I could fix it, but 
 That's why I decided to just accept L this time and maybe fix this algorithm another day. :/
 
 Just in case I made you curious: I started the actual testing of the solution at approximately ~23:30 on the first day and by ~13:00 the next day the test still hadn't processed all of the problem input.
+
+*AOC 6:* Nothing special about this puzzle but I found it very funny how part-02 could be solved without changing any key functions of part-01.
