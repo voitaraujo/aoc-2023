@@ -1,13 +1,5 @@
 import { readTextFile } from "@/lib/utils";
-
-interface Map {
-  [key: string]: number[][];
-}
-
-interface TransformedData {
-  seeds: number[];
-  [key: string]: number[][] | number[];
-}
+import { TransformedData } from "./types";
 
 const Destinations = [
   "seed-to-soil",

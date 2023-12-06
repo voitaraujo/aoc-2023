@@ -1,9 +1,5 @@
 import { readTextFile } from "@/lib/utils";
-
-interface TimeAndRecord {
-  track_duration: number;
-  record: number;
-}
+import { TimeAndRecord } from "./types";
 
 async function main(inputFilepath: string) {
   const inputText = await readTextFile(inputFilepath);
