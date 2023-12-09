@@ -25,3 +25,5 @@ Just in case I made you curious: I started the actual testing of the solution at
 *AOC 6:* Nothing special about this puzzle but I found it very funny how part-02 could be solved without changing any key functions of part-01.
 
 *AOC 7:* I have to admit, this one made me laugh at myself... The first part didn't seem difficult and it wasn't but it made me write a lot of tiny functions, on the other hand it made the second part completely ease to solve with some replaceAll().
+
+*AOC 8:* part-01 solution was straightforward, part-02 requested a little help to be solved tho
