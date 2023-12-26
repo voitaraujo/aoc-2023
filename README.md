@@ -4,6 +4,12 @@ My first time trying advent of code.
 
 > main goal is be constant through the 25 days!
 
+### to run the tests use:
+
+COMMAND: `bun run test_all`
+
+_NOTE:_ you should have **bun** installed
+
 ## _thoughts_
 
 *AOC 1:* The first part was very easy, the second introduced an interesting edge case(nightmares about "TWONE").
@@ -29,3 +35,6 @@ Just in case I made you curious: I started the actual testing of the solution at
 *AOC 8:* part-01 solution was straightforward, part-02 requested a little help to be solved tho
 
 *AOC 9:* Nothing special about this part-01 or part-02, but I got surprised when part-02 worked well as I was expecting it to not work at all.
+
+## _results_
+Well... Unfortunately I didn't make it to the end, luckily for a good reason. It turned out that having a commitment to coding every day with new challenges gave me the motivation I needed to finish my new personal website this year, and that's where I spent my free time until Christmas. I will definitely participate in the next edition of AOC!
